@@ -1,5 +1,5 @@
 # Author:赵嘉辉 72510338 crushvv
-# Author:姜凯译 72510559 1448812679
+# Author:姜凯译 72510559 1448812679-design
 
 # 常量定义
 BOARD_SIZE = 3          # 棋盘大小 (3x3)
