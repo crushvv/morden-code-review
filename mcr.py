@@ -1,7 +1,5 @@
-# Author:蔡麟 72510719 TSUKIKAGESAMAYOU
-# 王亚楠 72512215 gy12hui414bh521
-# 徐唯健 52910965 KaibaiGun
-# 刘子豪 72510523 yeskr59
+# Author:赵嘉辉 72510338 crushvv
+# 
 
 # 常量定义
 BOARD_SIZE = 3          # 棋盘大小 (3x3)
